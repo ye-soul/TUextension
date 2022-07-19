@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+  
+    "name": "TU LINKS",
+    "description": "한국공대 바로가기 :: made by ys",
+    "version": "1.0.0",
+  
+    "action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "tabs"
+    ],
+  "host_permissions": [
+    "<all_urls>"
+  ]
+  }
